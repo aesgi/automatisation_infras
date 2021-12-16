@@ -16,7 +16,7 @@ object Circulation {
     println("************")
 
     // terminate spark context
-    //spark.stop()
+    spark.stop()
   }
 }
 
